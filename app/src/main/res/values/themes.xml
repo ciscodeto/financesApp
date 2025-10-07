@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.PersonalFinanceToy" parent="android:Theme.Material.Light.NoActionBar" />
+    <!-- TODO: Replace legacy theme resources with Material3 once the UI is refactored out of MainActivity. -->
+</resources>
